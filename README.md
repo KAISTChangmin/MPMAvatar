@@ -9,6 +9,10 @@ Changmin Lee<sup>1</sup> [Jihyun Lee](https://jyunlee.github.io/)<sup>1</sup>, [
 **[\[Project Page\]](https://kaistchangmin.github.io/MPMAvatar/) [\[Paper\]]() [\[Supplementary Video\]](https://youtu.be/ytrKDNqACqM)**
 
 <p align="center">
+  <img src="assets/teaser.jpg" alt="teaser" width="100%"/>
+</p>
+
+<p align="center">
   <img src="assets/novelpose.gif" alt="animated1" width="33%"/>
   <img src="assets/zeroshot.gif" alt="animated2" width="66%"/>
 </p>
