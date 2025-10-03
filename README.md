@@ -2,11 +2,11 @@
 
 ## MPMAvatar: Learning 3D Gaussian Avatars with Accurate and Robust Physics-Based Dynamics (NeurIPS 2025) ##
 
-Changmin Lee<sup>1</sup> [Jihyun Lee](https://jyunlee.github.io/)<sup>1</sup>, [Tae-Kyun (T-K) Kim](https://sites.google.com/view/tkkim/home)<sup>1</sup>
+[Changmin Lee](https://github.com/KAISTChangmin/), [Jihyun Lee](https://jyunlee.github.io/), [Tae-Kyun (T-K) Kim](https://sites.google.com/view/tkkim/home)
 
-<sup>1</sup>KAIST
+KAIST
  
-**[\[Project Page\]](https://kaistchangmin.github.io/MPMAvatar/) [\[Paper\]]() [\[Supplementary Video\]](https://youtu.be/ytrKDNqACqM)**
+**[\[Project Page\]](https://kaistchangmin.github.io/MPMAvatar/) [\[Paper\]](https://arxiv.org/pdf/2510.01619.pdf) [\[Supplementary Video\]](https://youtu.be/ytrKDNqACqM)**
 
 <p align="center">
   <img src="assets/teaser.jpg" alt="teaser" width="100%"/>
