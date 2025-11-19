@@ -85,9 +85,9 @@ data
         |-- 00191_Inner
     |-- body_models
         |-- smplx
-            |-- SMPLX_NEUTRAL.pkl
-            |-- SMPLX_FEMALE.pkl
-            |-- SMPLX_MALE.pkl
+            |-- SMPLX_NEUTRAL.npz
+            |-- SMPLX_FEMALE.npz
+            |-- SMPLX_MALE.npz
         |-- TR00_E096.pt
     |-- a1_s1
     |-- a2_s1
@@ -99,6 +99,10 @@ data
     |-- s191_t2
     |-- demo
 ```
+### Demo Data
+
+To help users run the demo without executing the full preprocessing and training pipeline, we provide the necessary intermediate results (e.g., tracked meshes, blend weights, Gaussian point clouds, shadow networks, etc.).  
+You can download them from this [link](https://drive.google.com/drive/folders/1ZylC3f8b3wg6Ae4MkVeHFodJc0OVuJfu?usp=drive_link) and place them according to the directory structure described in the [issue](https://github.com/KAISTChangmin/MPMAvatar/issues/1)
 
 &nbsp;
    
