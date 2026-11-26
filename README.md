@@ -2,11 +2,11 @@
 
 ## MPMAvatar: Learning 3D Gaussian Avatars with Accurate and Robust Physics-Based Dynamics (NeurIPS 2025) ##
 
-[Changmin Lee](https://kaistchangmin.github.io/), [Jihyun Lee](https://jyunlee.github.io/), [Tae-Kyun (T-K) Kim](https://sites.google.com/view/tkkim/home)
+[Changmin Lee](https://cmin-lee.github.io/), [Jihyun Lee](https://jyunlee.github.io/), [Tae-Kyun (T-K) Kim](https://sites.google.com/view/tkkim/home)
 
 KAIST
  
-**[\[Project Page\]](https://kaistchangmin.github.io/MPMAvatar/) [\[Paper\]](https://arxiv.org/pdf/2510.01619.pdf) [\[Supplementary Video\]](https://youtu.be/ytrKDNqACqM)**
+**[\[Project Page\]](https://cmin-lee.github.io/MPMAvatar/) [\[Paper\]](https://arxiv.org/pdf/2510.01619.pdf) [\[Supplementary Video\]](https://youtu.be/ytrKDNqACqM)**
 
 <p align="center">
   <img src="assets/teaser.jpg" alt="teaser" width="100%"/>
@@ -25,7 +25,7 @@ KAIST
 
 1. Clone this repository
 
-<pre><code> $ git clone https://github.com/KAISTChangmin/MPMAvatar.git
+<pre><code> $ git clone https://github.com/cmin-lee/MPMAvatar.git
  $ cd MPMAvatar </pre></code>
 
 2. Install required apt packages
@@ -102,7 +102,7 @@ data
 ### Demo Data
 
 To help users run the demo without executing the full preprocessing and training pipeline, we provide the necessary intermediate results (e.g., tracked meshes, blend weights, Gaussian point clouds, shadow networks, etc.).  
-You can download them from this [link](https://drive.google.com/drive/folders/1ZylC3f8b3wg6Ae4MkVeHFodJc0OVuJfu?usp=drive_link) and place them according to the directory structure described in the [issue](https://github.com/KAISTChangmin/MPMAvatar/issues/1)
+You can download them from this [link](https://drive.google.com/drive/folders/1ZylC3f8b3wg6Ae4MkVeHFodJc0OVuJfu?usp=drive_link) and place them according to the directory structure described in the [issue](https://github.com/cmin-lee/MPMAvatar/issues/1)
 
 &nbsp;
    
